@@ -1,7 +1,7 @@
 {
-    "name": "Compound",
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
-    "keywords": ["compound", "defi"],
+    "name": "Wannsee",
+    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.png",
+    "keywords": ["wannsee", "defi"],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
       {
@@ -10,7 +10,7 @@
         "name": "Ride Token",
         "symbol": "RIDE",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/bridge-ui/main/src/assets/token/bicycle.svg?token=GHSAT0AAAAAABRQIGPMFM6GVPQZIGD2YHOOZCIK72A"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/bicycle.svg"
       },
       {
         "chainId": 5167003,
@@ -18,15 +18,7 @@
         "name": "Park Token",
         "symbol": "PARK",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/bridge-ui/main/src/assets/token/park.svg?token=GHSAT0AAAAAABRQIGPMAACQHXMS3BE52RPCZCILAVQ"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0xe031013a7b7caf05fc20bdc49b731e3f2f0caffd",
-        "name": "Moon Token",
-        "symbol": "MOON",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/bridge-ui/main/src/assets/token/moon.svg?token=GHSAT0AAAAAABRQIGPM4D5DPEK7DOYE6NSKZCILBMA"
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
       }
     ],
     "version": {
