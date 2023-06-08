@@ -4,22 +4,7 @@
     "keywords": ["wannsee", "defi"],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
-      {
-        "chainId": 5167003,
-        "address": "0x259444F838874C455fe5B5E8fdb858ecC2Ea7911",
-        "name": "Ride Token",
-        "symbol": "RIDE",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/bicycle.svg"
-      },
-      {
-        "chainId": 5167003,
-        "address": "0x6774442e57A9c16da8c447c4b151a4D7f306d92f",
-        "name": "Park Token",
-        "symbol": "PARK",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
-      }
+      
     ],
     "version": {
       "major": 2,
