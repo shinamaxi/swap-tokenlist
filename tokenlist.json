@@ -4,7 +4,14 @@
     "keywords": ["wannsee", "defi"],
     "timestamp": "2021-05-27T20:37:00.000+00:00",
     "tokens": [
-      
+      {
+        "chainId": 5167003,
+        "address": "0x567434d7076A26e035959EF8Cdd618f03132e6B7",
+        "name": "XSD Token",
+        "symbol": "XSD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/XSDTest.svg"
+        }
     ],
     "version": {
       "major": 2,
