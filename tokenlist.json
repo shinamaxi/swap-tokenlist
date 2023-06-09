@@ -11,6 +11,22 @@
         "symbol": "XSD",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/XSDTest.svg"
+        },
+        {
+          "chainId": 5167003,
+          "address": "0x3e7fC4C5cda88F10F2E47e74628cE91De03355E3",
+          "name": "Ride Token",
+          "symbol": "RIDE",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/bicycle.svg"
+        },
+        {
+          "chainId": 5167003,
+          "address": "0x6609a29c1B01ee5d3304DF9C96D74B84Ab80dc9f",
+          "name": "Park Token",
+          "symbol": "PARK",
+          "decimals": 18,
+          "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
         }
     ],
     "version": {
