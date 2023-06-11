@@ -6,7 +6,7 @@
     "tokens": [
       {
         "chainId": 5167003,
-        "address": "0xe596CC861D0406ce9a9Bd4bD9C4367469019D790",
+        "address": "0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D",
         "name": "Wrap MXC Token",
         "symbol": "WMXC",
         "decimals": 18,
@@ -14,7 +14,7 @@
       },
       {
         "chainId": 5167003,
-        "address": "0x567434d7076A26e035959EF8Cdd618f03132e6B7",
+        "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
         "name": "XSD Token",
         "symbol": "XSD",
         "decimals": 18,
@@ -22,7 +22,7 @@
       },
       {
         "chainId": 5167003,
-        "address": "0x3e7fC4C5cda88F10F2E47e74628cE91De03355E3",
+        "address": "0x499A9b11b3A107e7ac45217C3401b3D0bF36A24C",
         "name": "Ride Token",
         "symbol": "RIDE",
         "decimals": 18,
@@ -30,7 +30,7 @@
       },
       {
         "chainId": 5167003,
-        "address": "0x6609a29c1B01ee5d3304DF9C96D74B84Ab80dc9f",
+        "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
         "name": "Park Token",
         "symbol": "PARK",
         "decimals": 18,
