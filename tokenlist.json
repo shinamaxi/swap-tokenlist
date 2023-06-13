@@ -38,8 +38,8 @@
       },
       {
         "chainId": 5167003,
-        "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
-        "name": "Park Token",
+        "address": "0x8bC7cf83f5F83781Ec85B78d866222987Ae24657",
+        "name": "DHX Token",
         "symbol": "DHX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
