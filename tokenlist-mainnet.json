@@ -10,10 +10,18 @@
       {
         "chainId": 214,
         "address": "0x9308aa7F4079F323b650F4c65714efaC001B4Aa9",
-        "name": "Wrap Shina Inu Token",
+        "name": "Wrapped Shina Inu",
         "symbol": "WSHI",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/wrapped-shi.svg"
+      },
+      {
+        "chainId": 214,
+        "address": "0x444D72f75323252b09dc0a9387F0eC7d8670e0Fd",
+        "name": "SHINARIUM",
+        "symbol": "SHINARIUM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/shinarium.svg"
       }
     ],
     "version": {
