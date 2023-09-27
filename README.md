@@ -1,1 +1,1 @@
-# wannseeswap-tokenlist
+# shinaswap-tokenlist
