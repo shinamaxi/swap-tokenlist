@@ -1,112 +1,32 @@
 {
-  "name": "Sensor Tokens",
-  "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/mxc.svg",
-  "keywords": [
-    "wannsee",
-    "defi"
-  ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
-  "tokens": [
-    {
-      "chainId": 5167003,
-      "address": "0x6807F4B0D75c59Ef89f0dbEF9841Fb23fFDF105D",
-      "name": "Wrap MXC Token",
-      "symbol": "WMXC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0xdCc959e6e731b1CcA695a9e28D39103Bd0ecdb05",
-      "name": "Digi Token",
-      "symbol": "DG",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dg.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x22Ec679a09254C86bCFB076080D8cedc24b878a0",
-      "name": "Doge Token",
-      "symbol": "Doge",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/doge.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0xB9506A80429Ee619C74D46a3276c622358795e2B",
-      "name": "XSD Token",
-      "symbol": "XSD",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/xsd.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x499A9b11b3A107e7ac45217C3401b3D0bF36A24C",
-      "name": "Ride Token",
-      "symbol": "RIDE",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ride.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x850e2d6329C0A99d53C52571CFc7ff8C319159fe",
-      "name": "Park Token",
-      "symbol": "PARK",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/park.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x8bC7cf83f5F83781Ec85B78d866222987Ae24657",
-      "name": "DHX Token",
-      "symbol": "DHX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/dhx.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x4c313363116cdfFA82B48225a634C359f8681aA5",
-      "name": "Sensor Token",
-      "symbol": "Sensor",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/sensor.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x3200b5Aa2C27bd0771F9E1378b175d2729d53402",
-      "name": "Gin1689 Coin",
-      "symbol": "GIN1689",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/gin1689.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0xE642170eE88889e3539567C467474e09f10D6e30",
-      "name": "Crab Token",
-      "symbol": "CRAB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/crab.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x1c457428fA7fdE811641688029869a545121C00c",
-      "name": "Maxis Token",
-      "symbol": "MAXIS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/maxis.svg"
-    },
-    {
-      "chainId": 5167003,
-      "address": "0x230237d65e5726a28960b9A39359712Dbb8df08c",
-      "name": "xMXC",
-      "symbol": "xMXC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+    "name": "Sensor Tokens",
+    "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/shi.svg",
+    "keywords": [
+      "Shinarium Mainnet",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 214,
+        "address": "0x9308aa7F4079F323b650F4c65714efaC001B4Aa9",
+        "name": "Wrapped Shina Inu",
+        "symbol": "WSHI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/wrapped-shi.svg"
+      },
+      {
+        "chainId": 214,
+        "address": "0x444D72f75323252b09dc0a9387F0eC7d8670e0Fd",
+        "name": "SHINARIUM",
+        "symbol": "SHINARIUM",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/shinarium.svg"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
     }
-  ],
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
   }
-}
