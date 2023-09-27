@@ -14,6 +14,14 @@
         "symbol": "SHINARIUM",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/shinarium.svg"
+      },
+      {
+        "chainId": 1,
+        "address": "0x243cACb4D5fF6814AD668C3e225246efA886AD5a",
+        "name": "Shina Inu",
+        "symbol": "SHI",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/wrapped-shi.svg"
       }
     ],
     "version": {
