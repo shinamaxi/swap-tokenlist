@@ -1,6 +1,6 @@
 {
     "name": "Eth Tokens",
-    "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/ethereum-eth-logo.svg",
+    "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/ethereum-eth-logo.svg",
     "keywords": [
       "Ethereum Chain",
       "defi"
@@ -9,11 +9,11 @@
     "tokens": [
       {
         "chainId": 1,
-        "address": "0x5Ca381bBfb58f0092df149bD3D243b08B9a8386e",
-        "name": "MXC Token",
-        "symbol": "MXC",
+        "address": "0xE4ca40156307cF210B7Dcc8253fF19f413610Ca6",
+        "name": "SHINARIUM",
+        "symbol": "SHINARIUM",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/wrapped-mxc.svg"
+        "logoURI": "https://raw.githubusercontent.com/shinamaxi/swap-tokenlist/main/assets/shinarium.svg"
       }
     ],
     "version": {
